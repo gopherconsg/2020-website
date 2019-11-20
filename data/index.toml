@@ -2,20 +2,14 @@
 title = "The international Go programming language conference for Singapore and Southeast Asia is back!"
 logoname = "GopherCon Singapore 2020"
 logoPNG = "gopherconsg2020-d.png"
-buttonlink = "https://www.youtube.com/channel/UCazkIMpjghmT8fugD1WF_DQ"
-buttontext = "Thank you!"
-
-[hero.previous]
-text = "Check out what happened in previous years!"
-
-[hero.previous.assets.1]
-youtube = "Jpgqy8K6cyc"
+buttonlink = "https://www.papercall.io/gopherconsg-2020"
+buttontext = "Submit a talk!"
 
 [hero.subtitle.1]
-text = "Tentatively"
+text = "**Late May 2020**"
 
 [hero.subtitle.2]
-text = "**Late May 2020**"
+text = "Call for Proposals now open until 13 January 2020."
 
 [tickets]
 headline = "Tickets"
