@@ -1,9 +1,10 @@
 # Redirect domain aliases to primary domain on Netlify
 # See https://www.netlify.com/docs/redirects/#handling-hostnames-and-protocols-differently
 
-http://2020.gophercon.sg/*  https://2020.gophercon.sg/:splat  301!
+http://2020.gophercon.sg/*  https://2022.gophercon.sg/:splat  301!
+https://2020.gophercon.sg/*  https://2022.gophercon.sg/:splat  301!
 
-http://gophercon.sg/* https://2020.gophercon.sg/:splat 301!
-https://gophercon.sg/* https://2020.gophercon.sg/:splat 301!
-http://www.gophercon.sg/* https://2020.gophercon.sg/:splat 301!
-https://www.gophercon.sg/* https://2020.gophercon.sg/:splat 301!
+http://gophercon.sg/* https://2022.gophercon.sg/:splat 301!
+https://gophercon.sg/* https://2022.gophercon.sg/:splat 301!
+http://www.gophercon.sg/* https://2022.gophercon.sg/:splat 301!
+https://www.gophercon.sg/* https://2022.gophercon.sg/:splat 301!
